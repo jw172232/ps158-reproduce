@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="700" viewBox="0 0 1120 700" role="img" aria-labelledby="fig-title fig-desc">
+<title id="fig-title">Median family net worth by education, 1989–2025</title>
+<desc id="fig-desc">Federal Reserve Survey of Consumer Finances estimates of median family net worth by the educational attainment of the reference person. Values are in thousands of 2025 dollars. Four education categories are shown separately.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="105" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#111">FIGURE 1</text>
+<text x="105" y="73" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#111">Median family net worth by education of reference person</text>
+<text x="105" y="99" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#333">United States, 1989–2025 (thousands of 2025 dollars)</text>
+
+<line x1="105" y1="116" x2="133" y2="116" stroke="#111111" stroke-width="2.7"/>
+<text x="140" y="120" font-family="Arial, sans-serif" font-size="12" fill="#222">College degree</text>
+<line x1="265" y1="116" x2="293" y2="116" stroke="#333333" stroke-width="2.7" stroke-dasharray="10 4"/>
+<text x="300" y="120" font-family="Arial, sans-serif" font-size="12" fill="#222">Some college</text>
+<line x1="410" y1="116" x2="438" y2="116" stroke="#666666" stroke-width="2.7" stroke-dasharray="4 3"/>
+<text x="445" y="120" font-family="Arial, sans-serif" font-size="12" fill="#222">High school diploma</text>
+<line x1="615" y1="116" x2="643" y2="116" stroke="#888888" stroke-width="2.7" stroke-dasharray="1 4"/>
+<text x="650" y="120" font-family="Arial, sans-serif" font-size="12" fill="#222">No high school diploma</text>
+<line x1="105" y1="525.0" x2="805" y2="525.0" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="529.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">0</text>
+<line x1="105" y1="459.2" x2="805" y2="459.2" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="463.2" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">100</text>
+<line x1="105" y1="393.3" x2="805" y2="393.3" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="397.3" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">200</text>
+<line x1="105" y1="327.5" x2="805" y2="327.5" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="331.5" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">300</text>
+<line x1="105" y1="261.7" x2="805" y2="261.7" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="265.7" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">400</text>
+<line x1="105" y1="195.8" x2="805" y2="195.8" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="199.8" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">500</text>
+<line x1="105" y1="130.0" x2="805" y2="130.0" stroke="#d5d5d5" stroke-width="0.8"/>
+<text x="93" y="134.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#222">600</text>
+<line x1="105.0" y1="525" x2="105.0" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="105.0" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">1989</text>
+<line x1="221.7" y1="525" x2="221.7" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="221.7" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">1995</text>
+<line x1="338.3" y1="525" x2="338.3" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="338.3" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">2001</text>
+<line x1="455.0" y1="525" x2="455.0" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="455.0" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">2007</text>
+<line x1="571.7" y1="525" x2="571.7" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="571.7" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">2013</text>
+<line x1="688.3" y1="525" x2="688.3" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="688.3" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">2019</text>
+<line x1="805.0" y1="525" x2="805.0" y2="530" stroke="#222" stroke-width="0.8"/>
+<text x="805.0" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#222">2025</text>
+<polyline points="105.0,484.8 163.3,497.1 221.7,492.9 280.0,497.4 338.3,494.4 396.7,501.7 455.0,490.9 513.3,509.0 571.7,509.1 630.0,504.7 688.3,507.6 746.7,497.6 805.0,512.7" fill="none" stroke="#888888" stroke-width="2.1" stroke-dasharray="1 4"/>
+<circle cx="105.0" cy="484.8" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="163.3" cy="497.1" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="221.7" cy="492.9" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="280.0" cy="497.4" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="338.3" cy="494.4" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="396.7" cy="501.7" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="455.0" cy="490.9" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="513.3" cy="509.0" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="571.7" cy="509.1" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="630.0" cy="504.7" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="688.3" cy="507.6" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="746.7" cy="497.6" r="1.6" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<circle cx="805.0" cy="512.7" r="2.5" fill="#fff" stroke="#888888" stroke-width="1.2"/>
+<polyline points="105.0,464.0 163.3,467.7 221.7,452.9 280.0,453.9 338.3,455.0 396.7,447.6 455.0,442.0 513.3,469.2 571.7,476.9 630.0,465.5 688.3,463.3 746.7,447.9 805.0,454.7" fill="none" stroke="#666666" stroke-width="2.1" stroke-dasharray="4 3"/>
+<circle cx="105.0" cy="464.0" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="163.3" cy="467.7" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="221.7" cy="452.9" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="280.0" cy="453.9" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="338.3" cy="455.0" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="396.7" cy="447.6" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="455.0" cy="442.0" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="513.3" cy="469.2" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="571.7" cy="476.9" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="630.0" cy="465.5" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="688.3" cy="463.3" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="746.7" cy="447.9" r="1.6" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<circle cx="805.0" cy="454.7" r="2.5" fill="#fff" stroke="#666666" stroke-width="1.2"/>
+<polyline points="105.0,447.5 163.3,439.2 221.7,454.9 280.0,425.0 338.3,425.0 396.7,435.4 455.0,424.7 513.3,468.9 571.7,478.8 630.0,466.3 688.3,450.4 746.7,426.3 805.0,405.5" fill="none" stroke="#333333" stroke-width="2.1" stroke-dasharray="10 4"/>
+<circle cx="105.0" cy="447.5" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="163.3" cy="439.2" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="221.7" cy="454.9" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="280.0" cy="425.0" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="338.3" cy="425.0" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="396.7" cy="435.4" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="455.0" cy="424.7" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="513.3" cy="468.9" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="571.7" cy="478.8" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="630.0" cy="466.3" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="688.3" cy="450.4" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="746.7" cy="426.3" r="1.6" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<circle cx="805.0" cy="405.5" r="2.5" fill="#fff" stroke="#333333" stroke-width="1.2"/>
+<polyline points="105.0,313.7 163.3,360.9 221.7,356.4 280.0,298.7 338.3,232.3 396.7,219.8 455.0,190.8 513.3,281.0 571.7,271.0 630.0,265.4 688.3,267.1 746.7,190.4 805.0,192.5" fill="none" stroke="#111111" stroke-width="3.0"/>
+<circle cx="105.0" cy="313.7" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="163.3" cy="360.9" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="221.7" cy="356.4" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="280.0" cy="298.7" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="338.3" cy="232.3" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="396.7" cy="219.8" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="455.0" cy="190.8" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="513.3" cy="281.0" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="571.7" cy="271.0" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="630.0" cy="265.4" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="688.3" cy="267.1" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="746.7" cy="190.4" r="1.6" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<circle cx="805.0" cy="192.5" r="2.5" fill="#fff" stroke="#111111" stroke-width="1.2"/>
+<text x="819" y="197.5" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111111">College degree: $505k</text>
+<text x="819" y="409.5" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#333333">Some college: $182k</text>
+<text x="819" y="449.7" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#666666">High school diploma: $107k</text>
+<text x="819" y="517.7" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#888888">No high school diploma: $19k</text>
+<line x1="105" y1="130" x2="105" y2="525" stroke="#222" stroke-width="0.9"/>
+<line x1="105" y1="525" x2="805" y2="525" stroke="#222" stroke-width="0.9"/>
+<text x="455.0" y="572" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111">Survey year</text>
+<text transform="translate(34 327.5) rotate(-90)" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#111">Median net worth (thousands of 2025 dollars)</text>
+<text x="105" y="627" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#111"><tspan font-weight="700">Note:</tspan> Family is the SCF primary economic unit; education is that of its reference person.</text>
+<text x="105" y="647" font-family="Georgia, 'Times New Roman', serif" font-size="12" fill="#111">Education groups are separate. The college–high-school median gap increased from $228k (1989) to $398k (2025).</text>
+<text x="105" y="672" font-family="Georgia, 'Times New Roman', serif" font-size="11" fill="#444">Source: Board of Governors of the Federal Reserve System, Survey of Consumer Finances; public interactive chart data.</text>
+</svg>
